@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>IMD2900A Assignment 02</title>
+	</head>
+	<body>
+		<h1>Welcome to my awesome website!</h1>
+		<p>Here is some example text in my website</p>
+	</body>
+
+</html>
